@@ -1,2 +1,0 @@
-# GlobeTrekAdventure-
-GlobeTrekAdventure_website
